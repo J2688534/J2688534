@@ -28,11 +28,16 @@
 
 
 
+
+
 ---### 📫 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/obeng-josiah)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:josiahobeng87@email.com)
 
 ---
+
+
+
 
 > _"IDON'T JUST WRITE CODE, I CRAFT SOLUTIONS THAT ARE SCALABLE, MAINTAINABLE, AND HUMAN-CENTERED ."_  
 > — Obeng Josiah
