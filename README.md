@@ -5,7 +5,7 @@
 🤖 Graduate of the **ALX AICE Program**, where I explored the real-world power of AI tools and prompt engineering.
 
 ### 💡 About Me
-- ✅ ALX Back-End & AICE Program Graduate  
+- ✅ ALX Back-End,Front-End & AICE Program Graduate  
 - 🧰 Stack: Django • Python • JavaScript • HTML/CSS • PostgreSQL • Git  
 - 🎨 Also skilled in **Figma** for UI/UX design and prototyping  
 - 🌍 From hospitality to full-stack dev—bringing people skills to code  
