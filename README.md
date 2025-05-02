@@ -1,33 +1,32 @@
-# 👋 Hi there! I'm Obeng Josiah
+<!-- Profile README Start -->
 
-🎯 A passionate Software Engineering and AI Enthusiast and a Fullstack, I've completed the **ALX Back-End Developer Program**.  
-🛠 Build my foundation in HTML, CSS, Python, Django, Figma, PostgreSQL, and C while diving deep into system-level programming and web development.  
-🤖 Graduate of the **ALX AICE Program**, where I explored the real-world power of AI tools and prompt engineering.
-
-### 💡 About Me
-- ✅ ALX Back-End,Front-End & AICE Program Graduate  
-- 🧰 Stack: Django • Python • JavaScript • HTML/CSS • PostgreSQL • Git  
-- 🎨 Also skilled in **Figma** for UI/UX design and prototyping  
-- 🌍 From hospitality to full-stack dev—bringing people skills to code  
-- 🧠 Currently exploring cloud technologies and building real-world projects
+<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<p align="center">
+  <em>A passionate Software Engineer from the ALX SE Program | Front-End & Back-End Developer</em>
+</p>
 
 ---
 
-### ⚒️ Languages & Tools
+## 🚀 About Me
 
-**Frameworks & Languages**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+🎓 I am a dedicated learner of the **ALX Software Engineering program**, focusing on both **front-end** and **back-end** development.
 
--->**Databases & Design**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+💡 I started my journey into software engineering because "I was fascinated by how technology can solve real-world problems and wanted to be part of that change. I  know that technology can inspire and make a lasting positive mark in this modern world."]  
+✨ I am passionate about building clean, user-friendly, and innovative applications that improve people's lives.
 
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+🎯 **Mission:** To innovate, inspire, and make a lasting impact through elegant code, meaningful design, and inclusive solutions.
+
+---
+
+## 🛠️ Tech Stack
+
+```html
+💻 Languages: HTML, CSS, JavaScript, Python, Bash  
+⚙️ Tools & Frameworks: React, Node.js, Flask, Express.js  
+🧰 DevOps & Tools: Git, GitHub, VS Code  
+🖥️ Currently Learning: Tailwind CSS, MongoDB, TypeScript  
+
+
 
 ---### 📫 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/obeng-josiah)
