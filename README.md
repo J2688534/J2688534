@@ -1,6 +1,6 @@
 <!-- Profile README Start -->
 
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Obeng Josiaj 👋</h1>
 <p align="center">
   <em>A passionate Software Engineer from the ALX SE Program | Front-End & Back-End Developer</em>
 </p>
