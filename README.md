@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm [Obeng josiah] 👋</h1>
 
 <p align="center">
   A rising <strong>Software Engineer</strong> passionate about building tech that matters.
